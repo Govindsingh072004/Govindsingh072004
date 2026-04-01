@@ -22,7 +22,7 @@
 
 ## 🧠 About Me
 
-I'm an **AI Engineer** with 1+ year of hands-on experience building production-grade **Agentic AI systems**, **Automation pipelines**, and **RAG-based intelligent bots** at AnavClouds Analytics.ai. I specialize in making AI *actually work* — from voice agents that close sales calls in real-time, to multi-platform automation systems handling 10,000+ emails per day.
+I'm an **Data Scientist & AI Engineer** with 1+ year of hands-on experience building production-grade **Agentic AI systems**, **Automation pipelines**, and **RAG-based intelligent bots** at AnavClouds Analytics.ai. I specialize in making AI *actually work* — from voice agents that close sales calls in real-time, to multi-platform automation systems handling 10,000+ emails per day.
 
 - 🔭 Currently building a **PM Assistant Agent** that joins client calls, answers technical questions live, and recalls past conversations
 - 🤖 Built voice agents using **Vapi + ElevenLabs + Twilio + Deepgram + LLaMA** for real-time inbound/outbound sales
