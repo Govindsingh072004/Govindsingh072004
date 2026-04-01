@@ -12,12 +12,13 @@
 ---
 
 <!-- TYPING ANIMATION -->
-<div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=750&lines=📊+Data+Scientist+%7C+AI+%2F+LLM+Engineer;🤖+Building+AI+Agents+that+think+%26+act;🔗+RAG+%7C+LangChain+%7C+CrewAI+%7C+LangGraph+%7C+MCP;🎙️+Voice+Agents+%7C+Multi-Platform+Automation;⚡+N8N+%7C+Make.com+%7C+Zapier+Expert" alt="Typing SVG" />
-</a>
-</div>
 
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=750&lines=%F0%9F%93%8A+Data+Scientist+%7C+AI+%2F+LLM+Engineer;%F0%9F%A4%96+Building+AI+Agents+that+think+%26+act;%F0%9F%94%97+RAG+%7C+LangChain+%7C+CrewAI+%7C+LangGraph+%7C+MCP;%F0%9F%8E%99%EF%B8%8F+Voice+Agents+%7C+Multi-Platform+Automation;%E2%9A%A1+N8N+%7C+Make.com+%7C+Zapier+Expert" alt="Typing SVG" />
+  </a>
+</div>
 <br/>
 
 <!-- SOCIAL BADGES -->
@@ -205,10 +206,12 @@ govind = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=govindsingh072004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 </div>
+
+
 
 ---
 
